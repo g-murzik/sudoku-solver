@@ -16,7 +16,7 @@ Thus a sudoku file should look similar to the following:
 
 # INSTALLATION
 
-    $ wget https://github.com/g-murzik/sudoku-solver
+    $ git clone https://github.com/g-murzik/sudoku-solver
     $ cd sudoku-solver
     $ python3 sudoku.py sample.txt
 
