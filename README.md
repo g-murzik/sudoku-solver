@@ -16,11 +16,14 @@ Thus a sudoku file should look similar to the following:
 
 # INSTALLATION
 
-    $ git clone https://github.com/g-murzik/sudoku-solver
-    $ cd sudoku-solver
-    $ python3 sudoku.py sample.txt
+    git clone https://github.com/g-murzik/sudoku-solver
 
-#FILES
+# USAGE
+
+    cd sudoku-solver
+    python3 sudoku.py sample.txt
+
+# FILES
 
     o sudoku.py     the program
     o sample.txt    sample sudoku
